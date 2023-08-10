@@ -13,22 +13,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/gaurangkudale/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gaurangkudale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/gaurangkudale/github-readme-stats"><img alt="Gaurang Gola's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkudale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  
-
-
-<br/>
-<br/>
-
-<!-- <a href="https://github.com/gaurangkudale/github-readme-activity-graph"><img alt="Gaurang Kudale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gaurangkudale&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
