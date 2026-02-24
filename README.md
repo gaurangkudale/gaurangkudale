@@ -30,7 +30,7 @@ I design and operate cloud-native infrastructure using:
 
 ---
 
-# 🚀 Current Projects (Inspired by steipete style)
+# 🚀 Current Projects
 
 > What I'm actively building right now
 
