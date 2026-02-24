@@ -16,7 +16,7 @@
 
 # ⚡ About Me
 
-🧠 DevOps Engineer focused on **production-grade Kubernetes & platform engineering**
+DevOps Engineer focused on **production-grade Kubernetes & platform engineering**
 
 I design and operate cloud-native infrastructure using:
 
