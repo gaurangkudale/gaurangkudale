@@ -22,6 +22,12 @@
   <a href="mailto:gaurangkudaleworks@gmail.com">
     <img src="https://img.shields.io/badge/Email-gaurangkudaleworks%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://buymeacoffee.com/gaurangkudale">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+  </a>
+  <a href="https://github.com/sponsors/gaurangkudale">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+  </a>
 </p>
 
 ---
