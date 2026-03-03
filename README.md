@@ -1,30 +1,44 @@
 <h1 align="center">Hi 👋 I'm Gaurang Kudale</h1>
 
 <p align="center">
-  <b>Senior DevOps Engineer • Kubernetes Specialist • GitOps Practitioner</b>
+  <b> Infrastructure/Backend Engineer • Kubernetes Specialist </b>
 </p>
 
 <p align="center">
   Building scalable cloud platforms | Automating everything | Shipping production systems 🚀
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gaurangkudale&label=Profile%20Views&color=0e75b6&style=flat" />
+</p> -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurangkudale/">
+    <img src="https://img.shields.io/badge/LinkedIn-GaurangKudale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/GaurangKudale">
+    <img src="https://img.shields.io/badge/X-@GaurangKudale-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:gaurangkudaleworks@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gaurangkudaleworks%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # ⚡ About Me
 
-DevOps Engineer focused on **production-grade Kubernetes & platform engineering**
+Infrastructure/Backend Engineer focused on **production-grade Infrastructure & platform engineering**
 
 I design and operate cloud-native infrastructure using:
 
-- Kubernetes (GKE)
+- Kubernetes
+- GoLang, Python
 - GitOps (FluxCD / ArgoCD)
 - Helm & Platform Automation
 - CI/CD at scale
 - Multi-cluster deployments
+- Automation
 
 💡 I enjoy turning complex infrastructure into **repeatable, automated systems**.
 
@@ -32,9 +46,7 @@ I design and operate cloud-native infrastructure using:
 
 # 🚀 Current Projects
 
-> What I'm actively building right now
-
->> TO-DO
+- 🛠 [RCA Operator](https://github.com/gaurangkudale/RCA-Operator) — the AI-powered Kubernetes operator that performs autonomous root cause analysis and remediation.
 
 ---
 
@@ -98,26 +110,6 @@ I design and operate cloud-native infrastructure using:
 - 🤝 Freelance DevOps Engineer helping teams adopt Kubernetes and Cloud
 
 ---
-
-# 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gaurangkudale/">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-  <a href="https://twitter.com/gaurangkudale">
-    <img src="https://img.icons8.com/color/48/twitter.png"/>
-  </a>
-  <a href="https://hashnode.com/@gaurangkudale">
-    <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg" height="48"/>
-  </a>
-  <a href="https://www.instagram.com/gaurangkudale/">
-    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   ⭐ Always building. Always learning.
 </p>
