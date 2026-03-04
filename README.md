@@ -32,7 +32,7 @@
 
 ---
 
-> Architecting rock-solid cloud-native infrastructure with Kubernetes, Go, and Python, I enjoy turning complex environments into repeatable, automated systems. Taking the heavy lifting out of multi-cluster deployments and scaling raw CI/CD pipelines into seamless, production-grade flow is where I thrive.
+> Architecting rock-solid cloud-native infrastructure with Kubernetes, Go, and Python, I enjoy turning complex environments into repeatable, automated systems. 
 
 ---
 
