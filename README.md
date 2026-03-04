@@ -32,21 +32,7 @@
 
 ---
 
-# ⚡ About Me
-
-Infrastructure/Backend Engineer focused on **production-grade Infrastructure & platform engineering**
-
-I design and operate cloud-native infrastructure using:
-
-- Kubernetes
-- GoLang, Python
-- GitOps (FluxCD / ArgoCD)
-- Helm & Platform Automation
-- CI/CD at scale
-- Multi-cluster deployments
-- Automation
-
-💡 I enjoy turning complex infrastructure into **repeatable, automated systems**.
+> Architecting rock-solid cloud-native infrastructure with Kubernetes, Go, and Python, I enjoy turning complex environments into repeatable, automated systems. Taking the heavy lifting out of multi-cluster deployments and scaling raw CI/CD pipelines into seamless, production-grade flow is where I thrive.
 
 ---
 
